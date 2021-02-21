@@ -1,0 +1,85 @@
+body {
+    color: rgb(112, 98, 79);
+}
+
+.navbar {
+   background-color: rgb(112, 98, 79);
+   font-family: Lucida Handwriting;
+}
+
+.navbar-brand {
+    margin-left: 1%;
+}
+
+.svgBlack {
+    filter: invert(1);
+}
+
+h1 {
+    font-family: Lucida Handwriting;
+}
+
+.list-group-item {
+    border: solid black 1px;
+    font-weight: bold;
+    color: black;
+    text-decoration-style: none;
+    background-color: rgb(229, 222, 212);
+}
+
+a {
+    text-decoration: none;
+    color: rgb(112, 98, 79);
+}
+
+a:hover {
+    text-decoration: none;
+    color: white;  
+}
+
+h2 {
+    font-family: Lucida Handwriting;
+    text-decoration: underline;
+}
+
+.btn{
+    color: rgb(112, 98, 79);
+    border: solid rgb(112, 98, 79) 1px;
+    background-color: white;
+    font-weight: bold;
+}
+
+.btn:hover {
+    color: white;
+    background-color: rgb(112, 98, 79);
+}
+
+.buttonLink {
+    display: flex;
+    justify-content: center;
+}
+
+button:hover {
+    color: white;
+}
+
+.cards{
+    background-color: rgb(229, 222, 212);
+    margin: 10px;
+    padding: 10px;
+}
+
+.card {
+    border: solid rgb(112, 98, 79) 1px;
+    margin: 10px;
+}
+
+.card-title {
+    text-decoration: underline;
+}
+
+footer {
+    padding-top: 10px;
+    text-align: center;
+}
+
