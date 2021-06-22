@@ -4,4 +4,4 @@ Projet de site réalisé dans le cadre d'une évaluation d'entraînement pour ma
 
 //
 
-Site project reailzed during my training to have the Bachelor in web application developer, the objective of which was to create a static site in HTML, CSS and Bootstrap
+Site project realized during my training to have the Bachelor in web application developer, the objective of which was to create a static site in HTML, CSS and Bootstrap
